@@ -1,5 +1,5 @@
 {
-    "name": "ProjectScope.ProjectName.Editor",
+    "name": "com.teamarentia.Oculus Integration.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
